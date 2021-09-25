@@ -4,9 +4,9 @@
 Pyber is a ride-sharing app that hired me to examine the difference between urban, suburban, and rural cities. This data was analyzed by investigating the amount of drivers, riders, and the cost of fares for each of the city types mentioned. The initial analysis was in-depth with detail. In this project, a summary was created with the focus being the cost of fares over time for each city type.
 
 ## Results:
-![]("Analysis/PyBer_summary_df/png")
+![](Analysis/PyBer_summary_df/png)
 
-![]("Analysis/PyBer_fare_summary.png")
+![](Analysis/PyBer_fare_summary.png)
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
