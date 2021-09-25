@@ -14,6 +14,17 @@ Below is a multiple-line chart that shows how fares changed over time. More spec
 
 
 ## Summary:
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+### 3 recommendations for addressing disparities among the city types.
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+- 
+
+
+
+
+
+
+
+
+
+
+
