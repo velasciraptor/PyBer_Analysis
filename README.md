@@ -5,20 +5,6 @@ Pyber is a ride-sharing app that hired me to examine the difference between urba
 
 ## Results:
 
-```
-# 8. Using the object-oriented interface method, plot the resample DataFrame using the df.plot() function. 
-new_df.plot()
-plt.title("Total Fare by City Type")
-plt.ylabel("Fare($USD)")
-plt.legend(loc="center")
-plt.rcParams["figure.figsize"] = (10,3)
-
-# Import the style from Matplotlib.
-from matplotlib import style
-# Use the graph style fivethirtyeight.
-style.use('fivethirtyeight')
-``` 
-
 ![]("Analysis/PyBer_fare_summary.png")
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
