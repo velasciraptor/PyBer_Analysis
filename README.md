@@ -18,9 +18,9 @@ Below is a multiple-line chart that shows how fares changed over time. More spec
 ## Summary:
 ### 3 recommendations for addressing disparities among the city types.
 
-- Urban: 
-- Suburban:
-- Rural: 
+- Increase the amount of drivers in rural cities. Rural cities have the smallest amount of rides and therefore the smallest amount of total fares. This is because they either cannot find a driver or the fare is too expensive. Increasing the amount of drivers will reduce prices for customers and allow demand to grow.
+
+- In urban cities, increase advertising to bring in more riders. There are 1.5 times the amount of drivers than the amount of riders. 
 
 
 
