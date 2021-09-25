@@ -19,8 +19,8 @@ Below is a multiple-line chart that shows how fares changed over time. More spec
 ### 3 recommendations for addressing disparities among the city types.
 
 - Increase the amount of drivers in rural cities. Rural cities have the smallest amount of rides and therefore the smallest amount of total fares. This is because they either cannot find a driver or the fare is too expensive. Increasing the amount of drivers will reduce prices for customers and allow demand to grow.
-
-- In urban cities, increase advertising to bring in more riders. There are 1.5 times the amount of drivers than the amount of riders. 
+- Suburban cities seem relatively balanced for the most part.
+- In urban cities, increase advertising to bring in more riders. Drivers outnumber rides by 148%. The law of supply and demand dictates that supply should equal demand so that the prices do not drop too low for producers (PyBer) to continue or grow their business.
 
 
 
